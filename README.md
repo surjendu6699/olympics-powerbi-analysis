@@ -25,6 +25,6 @@ Built dynamic reports and dashboards with the following key visuals:
 🚀 Also Check Out:
 
 If you're interested in more data science projects, take a look at my Titanic Survival Prediction using Machine Learning:
-🔗 GitHub Repository – 
+🔗 GitHub Repository – https://github.com/surjendu6699/Titanic_Survival_prediction
 
 This project uses feature engineering, model tuning, and predictive modeling to determine passenger survival probabilities.
