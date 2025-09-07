@@ -1,25 +1,30 @@
 Olympic Power BI & Python Analysis
 
-This report presents a comprehensive analysis of Olympic athlete data, combining the power of Power BI for interactive visualizations with Python for data preprocessing and statistical insights.
+This project combines Python and Power BI to deliver a data-driven analysis of Olympic athlete performance and demographics. It highlights trends across sports, gender, age, and medal distribution.
 
-Key Steps & Process:
+🔍 Key Workflow:
 
-Data Cleaning and Preprocessing:
-Conducted in Python, including handling of missing values, standardization, and formatting.
+Data Preprocessing (Python):
+Cleaned the dataset, handled missing values, and formatted data for consistency.
 
-Outlier Detection:
-Outliers in athlete age and weight were detected using Python (e.g., Z-score or IQR methods) to ensure data integrity and improve analysis accuracy.
+Outlier Detection (Python):
+Detected and handled outliers in athlete age and weight using statistical methods (e.g., Z-score, IQR).
 
 Python Visualizations:
-Before importing into Power BI, key trends and distributions—such as age, weight, and medal correlation—were visualized in Python (using libraries like Matplotlib or Seaborn).
+Used Matplotlib and Seaborn to visualize initial data trends and validate preprocessing steps before Power BI integration.
 
-Power BI Dashboards:
-Final insights and visual storytelling were developed using Power BI Desktop, including the following charts:
+Interactive Dashboards (Power BI):
+Built dynamic reports and dashboards with the following key visuals:
 
-Age and Weight by Medal
+📊 Age and Weight by Medal
 
-Gender Distribution
+👥 Gender Distribution
 
-Sport-wise Participation
+🏅 Sport-wise Participation
 
-This hybrid workflow enables deeper data exploration and more accurate visual insights.
+🚀 Also Check Out:
+
+If you're interested in more data science projects, take a look at my Titanic Survival Prediction using Machine Learning:
+🔗 GitHub Repository – 
+
+This project uses feature engineering, model tuning, and predictive modeling to determine passenger survival probabilities.
